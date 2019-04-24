@@ -31,3 +31,7 @@ ListPreference页面如下：❤
 
 ![image](https://github.com/No-91/preferenceFragment/blob/master/images/no6.PNG)
 
+
+设置项关联，选中父选项时，子选项才显示，如图：❤
+
+![image](https://github.com/No-91/preferenceFragment/blob/master/images/no9.PNG)
